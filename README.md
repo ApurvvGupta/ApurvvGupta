@@ -2,7 +2,7 @@
 <h3 align="center">BTech Mathematics & Computing Student | AI/ML Enthusiast | Researcher | Full-Stack Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Math+%2B+Computing+%2B+AI+%3D+My+Edge;Building+Foundations%2C+Not+Chasing+Trends;Future+AI+Engineer+%7C+Innovator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Math+%2B+Computing+%2B+AI+%3D+My+Edge;Building+Foundations%2C+Not+Chasing+Trends;Future+AI+Engineer+%7C+Backend+Developer+%7C+Innovator" />
 </p>
 
 ---
