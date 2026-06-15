@@ -40,15 +40,6 @@ I am a **Mathematics and Computing** undergraduate student driven by a passion f
   <img src="https://img.shields.io/badge/Quantum_Computing-61DF50?style=for-the-badge&logo=qiskit&logoColor=black" alt="Quantum" />
 </p>
 
----
-
-## 🌟 Featured Projects
-
-| Project Name | Core Tech Stack | Description | Key Achievement |
-| :--- | :--- | :--- | :--- |
-| **Nano Banana** | Python, AI/ML, Full-Stack | Integrated technical workflow tool optimizing application performance and monitoring. | Designed and illustrated a high-fidelity prototype workflow for real-time application processing. |
-| **Aquasense** | Python, Computer Vision | A portable microplastic detection workflow system built to identify contaminants. | Engineered an end-to-end algorithmic pipeline visualizing complex spatial contamination data dynamically. |
-| **Reservoir Timeline Predictor** | Machine Learning, Python | AI-driven system built to forecast petroleum and chemical production timelines. | Applied specialized mathematical modeling to solve domain-specific pipeline problems in the energy sector. |
 
 ---
 
