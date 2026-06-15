@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apurv Gupta</h1>
-<h3 align="center">BTech Mathematics & Computing Student | AI/ML Enthusiast | Quant Aspirant | Researcher | Full-Stack Learner</h3>
+<h3 align="center">BTech Mathematics & Computing Student | AI/ML Enthusiast | Researcher | Full-Stack Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Math+%2B+Computing+%2B+AI+%3D+My+Edge;Building+Foundations%2C+Not+Chasing+Trends;Future+AI+Engineer+%7C+Quant+Researcher+%7C+Innovator" />
@@ -13,13 +13,6 @@
 - 🏫 Studying at **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)**
 - 💡 Passionate about solving hard problems using **Math + Computing + AI**
 - 🔬 Strong interest in **research, innovation, and real-world engineering**
-- 🌍 Preparing for:
-  - Top internships  
-  - High-paying placements  
-  - GSoC  
-  - Research publications  
-  - MS abroad  
-  - Patents & Innovation  
 
 > **"I don’t chase trends; I build foundations."**
 
@@ -63,23 +56,7 @@
 
 ---
 
-## 📚 Coursework
-
-- Data Structures  
-- DBMS  
-- Statistics  
-- Linear Algebra  
-- Real Analysis  
-- Discrete Mathematics  
-- Numerical Methods  
-- Financial Engineering  
-- Number Theory  
-- Web Technology  
-- Computer Programming  
-
----
-
-# 🚀 Major Projects
+Major Projects
 
 ## 1️⃣ Smart Posture Correction Wearable
 
