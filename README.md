@@ -56,7 +56,7 @@
 
 ---
 
-Major Projects
+### Major Projects
 
 ## 1️⃣ Smart Posture Correction Wearable
 
@@ -143,19 +143,11 @@ Using mathematical and computational analysis to understand:
 
 ---
 
-## 💻 Coding Profiles
-
-- LeetCode: [Your Profile](YOUR_LINK)
-- Codeforces: [Your Profile](YOUR_LINK)
-- CodeChef: [Your Profile](YOUR_LINK)
-
----
-
 ## 🌐 Connect With Me
 
-- LinkedIn: [Your LinkedIn](YOUR_LINK)
-- GitHub: [Your GitHub](YOUR_LINK)
-- Email: yourmail@example.com
+- LinkedIn: (https://www.linkedin.com/in/apurv-gupta-1a9938240/)
+- GitHub: https://github.com/ApurvvGupta
+- Email: apurvvgupta@gmail.com
 
 ---
 
