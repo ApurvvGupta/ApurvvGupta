@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd Year BTech student in **Mathematics and Computing**
+- 🎓 4th Year BTech student in **Mathematics and Computing**
 - 🏫 Studying at **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)**
 - 💡 Passionate about solving hard problems using **Math + Computing + AI**
 - 🔬 Strong interest in **research, innovation, and real world engineering**
